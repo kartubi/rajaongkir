@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f38923</color>
+    <color name="colorPrimaryDark">#232323</color>
+    <color name="colorAccent">#bf5d00</color>
+
+    <color name="bg">#2d2d2d</color>
+    <color name="oren">#f48a23</color>
+    <color name="grey">#cecece</color>
+    <color name="gretouy">#b9b9b9</color>
+    <color name="white">#ffffff</color>
+    <color name="tranparant">#00ffffff</color>
+
+    //text
+    <color name="title">#151515</color>
+    <color name="body">#494949</color>
+
+    //bg2
+    <color name="blacktrans">#7d000000</color>
+    <color name="tabsScrollColor">#96ffffff</color>
+</resources>
