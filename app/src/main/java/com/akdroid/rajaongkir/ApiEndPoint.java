@@ -10,6 +10,6 @@ public class ApiEndPoint {
     public static String Province = "province";
     public static String City = "city";
     public static String Cost = "cost";
-    public static String ApiKey = "a4c99555e5f87908b2a09e1f68df21a5";
+    public static String ApiKey = "";
 
 }
